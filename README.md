@@ -1,5 +1,5 @@
 # Express_finalExam
-A final exam to use express to build a project
+A final exam that need to use express to build a project
 
 ## Installing
 1. use `$ git clone https://github.com/TimmyJun/express_finalExam.git` to download the project
