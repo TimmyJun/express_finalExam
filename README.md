@@ -1,8 +1,6 @@
 # Express_finalExam
 A final exam to use express to build a project
 
----
-
 # How to use?
 
 ## Installing
@@ -16,4 +14,4 @@ you can start the project by the following ways:
 
 1. `node app.js`
 2. `nodemon app.js`
-3. `npm run dev` 
+3. `npm run dev`
