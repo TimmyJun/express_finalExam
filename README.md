@@ -2,7 +2,6 @@
 A final exam to use express to build a project
 
 # How to use?
-
 ## Installing
 1. use `$ git clone https://github.com/TimmyJun/express_finalExam.git` to download the project
 and then you could find the files has been download to the designated destination
